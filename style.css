@@ -1,0 +1,141 @@
+a{
+    color: lightgrey;
+}
+
+#email {
+    color: black;
+}
+
+h1{
+    text-align: left; 
+    color:white; 
+    font-size:20pt;
+}
+
+.pagetitle {
+   text-align: center; 
+   color:white; 
+   font-size:24pt; 
+}
+    
+
+.OutlineText {
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 64px;
+    color: eggshell;
+    text-shadow:
+    /* Outline */
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000; /* Terminate with a semi-colon */
+    text-align: center; 
+   
+}
+
+header {
+    background-color:#bb0000;"
+}
+
+.banner {
+    float:left; width:200px;"
+    }
+
+.bannertitle {
+    text-align: left; 
+    color:white; 
+    font-size:20pt;
+}
+
+.main {
+    background-color: #bb0000; 
+    padding: 10px 10px 100px 10px; 
+    width: 98%; 
+    margin:auto;
+}
+
+h3 {
+    text-align: center; 
+    color:black; 
+    font-size:15pt;
+}
+
+.webdesigndiv {
+    background-color:#bb0000; 
+    padding:10px 10px 100px 10px;
+    text-align: center;
+}
+ 
+.webdesignh1 {
+    color: lightgray; 
+    font-size: 28pt; 
+    text-align:center;
+}
+
+.webdesignpl {
+    text-align: left; 
+    color:lightgray; 
+    font-size: 18pt;
+}
+
+.webdesignpc {
+    text-align: center; 
+    color:lightgray; 
+    font-size: 18pt;
+}
+
+#webdesignp {
+    text-align: center; 
+    color:lightgray; 
+    font-size: 18pt;
+}
+
+#webdesignlist {
+    list-style-type: none;
+    color: lightgray; 
+    font-size: 18pt; 
+    display: inline-block;
+    text-align: left;
+}
+
+#webdesignlist2 {
+    list-style-type: none;
+    color: lightgray; 
+    font-size: 16pt; 
+    text-align: left;
+}
+
+.webdesignlist {
+    color: lightgray; 
+    font-size: 18pt; 
+    display: block;
+    text-align: left;
+}
+
+.webdesignlist2 {
+    color: lightgray; 
+    font-size: 18pt; 
+    display: inline-block;
+    text-align: left;
+}
+
+.scheduletr{
+    height: 35px;
+}
+
+.scheduletd1{
+    width: 120px;
+}
+
+.scheduletd2{
+    width: 210px;
+}
+
+.links {
+    color: black;
+    font-size: 12pt;
+}
